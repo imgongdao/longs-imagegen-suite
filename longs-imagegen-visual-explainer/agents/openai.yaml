@@ -1,0 +1,4 @@
+interface:
+  display_name: "多略生图视觉化图片"
+  short_description: "把文章、框架、流程和复杂信息转化为易理解的单张视觉解释图"
+  default_prompt: "使用 $longs-imagegen-visual-explainer 将这份内容转化为结构清晰、容易理解的单张视觉解释图。"

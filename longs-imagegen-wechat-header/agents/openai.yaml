@@ -1,0 +1,4 @@
+interface:
+  display_name: "多略生图微信公众号头图"
+  short_description: "创建移动端清晰、观点鲜明且适合点击传播的微信公众号横版头图"
+  default_prompt: "使用 $longs-imagegen-wechat-header 为这篇文章创建一张观点鲜明、适合移动端阅读的微信公众号头图。"

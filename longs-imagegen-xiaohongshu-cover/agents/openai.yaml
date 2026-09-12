@@ -1,0 +1,4 @@
+interface:
+  display_name: "多略生图小红书封面图"
+  short_description: "创建高辨识度、移动端易读且能快速传达价值的小红书竖版封面图"
+  default_prompt: "使用 $longs-imagegen-xiaohongshu-cover 为这份内容创建一张高辨识度、移动端易读的小红书竖版封面图。"
